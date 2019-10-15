@@ -5,6 +5,6 @@ This repository contains a task set of 80 struggling search tasks (SST), a task 
 
 Please refer to:
 
-struggling_search_task.md for the task set of 80 struggling search tasks;  
+struggling_search_tasks.md for the task set of 80 struggling search tasks;  
 comparison_taskset.md for the task set containing 10 sst and 10 typical IR tasks;  
 struggling_search_logs.zip for the user data.
