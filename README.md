@@ -1,4 +1,4 @@
-# CHIIR2020
+# HT2020
 
 # StrugglingTasks
 This repository contains a task set of 80 struggling search tasks (SST), a task set containing 10 sst (randomly selected from the 80 sst) and 10 typical IR tasks (from TREC2014), and the anoymized user behavior data according to a user study of 400 participants on these two task sets.
