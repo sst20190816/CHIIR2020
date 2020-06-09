@@ -1,4 +1,4 @@
-# CHIIR2020
+# WISE2020
 
 # StrugglingTasks
 This repository contains 80 struggling search tasks with |task description|, |answer|, |supporting information|, |source entity name (source web page= https://en.wikipedia.org/wiki/ + Soure Entity)|, |task type (yes/no, fact-finding)|, |Task Topics (I- II- level categories in Open Directory Project)|, |task difficulty level|, and |success rate| according to a user study of 400 participants.
